@@ -3,8 +3,8 @@ if game.PlaceId == 1962086868 then
  
 wait(0.3)
 game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "Lime X !";
-	Text = "AntiCheat Bypassed , Loading Lime X.... ";
+	Title = "DUCKY HUB !";
+	Text = "AntiCheat Bypassed , Loading DUCKY HUB.... ";
 })
  
 wait (1)
@@ -17,7 +17,7 @@ wait (1)
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-	Title = "Lime X Tower Of Hell",
+	Title = "DUCKY Tower Of Hell",
 	Style = 3,
 	SizeX = 400,
 	SizeY = 400,
